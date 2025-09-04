@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>»—‰«„ÃÏ -  Õ„Ì·</title>
+  <style>
+    body {
+      font-family: Tahoma, Arial, sans-serif;
+      background-color: #f8f9fa;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: white;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #0078d7;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 25px;
+      font-size: 18px;
+      color: white;
+      background: #0078d7;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #005fa3;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>»—‰«„Ã Œ«’ »≈œ«—… «·‘∆Ê‰ «·ﬁ«‰Ê‰Ì…</h1>
+    <p>
+      »—‰«„Ã »”Ìÿ Ê”Â· «·«” Œœ«„ Ì”«⁄œﬂ ⁄·Ï  ”ÃÌ· ﬂ· „« ÌŒ’ «·⁄„· Ê ⁄„· «· ﬁ«—Ì— »œﬁ… ⁄«·Ì….
+      <br>
+      «·≈’œ«— 1.0 - „ «Õ ·· Õ„Ì· „Ã«‰«
+    </p>
+
+    <!-- ÷⁄ Â‰« ·Ì‰ﬂ „·› EXE -->
+    <a href="yourprogram.exe" class="btn" download>?  Õ„Ì· «·»—‰«„Ã</a>
+
+    <footer>
+      © 2025 ‘—ﬂ‹‹… „Õ„Êœ ··»—„ÃÌ« 
+    </footer>
+  </div>
+</body>
+</html>
